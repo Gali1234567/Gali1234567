@@ -2,9 +2,8 @@
 El objetivo del juego es adivinar una palabra seleccionada al azar ingresando letras una a una. Tienes un número limitado de vidas y debes adivinar la palabra antes de quedarte sin ellas.
 
 ## Instalación 
+🔹En caso de tener Java instalado en tu sistema descarga el archivo (código) del juego.
 🔹En caso de no tenerlo puedes usar un compilador en línea recuerda nombrar el archivo con "Ahorcado.java"
-
-🔹En caso de tener Java instalado en tu sistema descarga el archivo fuente del juego.
 
 🔹En caso de no tenerlo puedes usar un compilador en línea recuerda nombrar el archivo con "Ahorcado.java"
 
