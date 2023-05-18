@@ -1,4 +1,4 @@
-#Juego del Ahorcado en Java
+Juego del Ahorcado en Java
 El objetivo del juego es adivinar una palabra seleccionada al azar ingresando letras una a una. Tienes un número limitado de vidas y debes adivinar la palabra antes de quedarte sin ellas.
 
 #Instalación 
@@ -12,4 +12,4 @@ recuerda nombrar el archivo con "Ahorcado.java"
 *El objetivo es adivinar la palabra ingresando letras.
 *Tienes un número limitado de vidas representadas gráficamente como un ahorcado.
 *Si adivinas todas las letras de la palabra antes de quedarte sin vidas, ganas el juego. Si pierdes todas tus vidas sin adivinar la palabra, pierdes el juego.
-**Durante el juego, se te mostrará una pista con las letras adivinadas y los espacios vacíos para las letras restantes.
+**Durante el juego, se te mostrará una pista con las letras adivinadas y los espacios vacíos para las letras restantes. 😉
