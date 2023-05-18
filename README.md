@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<!--
+### Hola , me llamo Paula, soy estudiante de ciencia de datos 👋
+En este repositorio se encontrarán todas las actividades desarrolldas en progrmación avanzada en Java y C++
+<!-
 **Gali1234567/Gali1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
