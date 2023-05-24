@@ -9,5 +9,6 @@ dentro de esto se encuentra el manejo de strings, ciclos , poliformismo , herenc
 🌟Por último en la carpeta de Juegos encontrarán 2 juegos en Java los cuales son:
 
 🔹Ahorcado 
-🔹CLick 
+
+🔹Disparos
 
